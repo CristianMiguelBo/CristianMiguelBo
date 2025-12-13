@@ -25,18 +25,15 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
 </div>
 
 ## 🖥️ GitHub Analytics           
-<p>
-  <a href="https://github.com/CristianMiguelBo">
-      <img align="right"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
-       width="48%" />
-      <img align="left"
-       src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
-       width="48%" />
-  </a>
-</p>
 
-#### ASP.NET MVC + SQL
+  <a href="https://github.com/CristianMiguelBo">
+      <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
+       width="60%" />
+      <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
+       width="60%" />
+  </a>
 
 ## 🚀 Últimos proyectos:
 
