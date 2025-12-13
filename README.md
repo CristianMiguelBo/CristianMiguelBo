@@ -65,6 +65,13 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
   </tr>-->
 </table>
 
+### 🖥️ &nbsp;GitHub Analytics           
+
+<a href="https://github.com/kenysdev">
+    <img src="https://kenysdev.vercel.app//api" width="60%" />
+    <img src="https://kenysdev.vercel.app/api/top-langs" width="60%" />
+</a>
+
 ## 📥 Conéctate conmigo:
 
 <a href="https://www.linkedin.com/in/cristian-miguel-bo-88784223a/" target="_blank" rel="noopener noreferrer">
