@@ -24,6 +24,20 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
 </div>
 
+## 🖥️ GitHub Analytics           
+<p>
+  <a href="https://github.com/CristianMiguelBo">
+      <img align="right"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
+       width="48%" />
+      <img align="left"
+       src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
+       width="48%" />
+  </a>
+</p>
+
+#### ASP.NET MVC + SQL
+
 ## 🚀 Últimos proyectos:
 
 <table style="width:100%; border-collapse: collapse; text-align:center;">
@@ -64,17 +78,6 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
     </td>
   </tr>-->
 </table>
-
-## 🖥️ &nbsp;GitHub Analytics           
-
-<a href="https://github.com/CristianMiguelBo">
-    <img align="left"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
-     width="45%" />
-    <img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
-     width="45%" />
-</a>
 
 ## 📥 Conéctate conmigo:
 
