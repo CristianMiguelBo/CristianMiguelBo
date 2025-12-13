@@ -65,11 +65,15 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
   </tr>-->
 </table>
 
-### 🖥️ &nbsp;GitHub Analytics           
+## 🖥️ &nbsp;GitHub Analytics           
 
 <a href="https://github.com/CristianMiguelBo">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight)
-    <img src="https://CristianMiguelBo.vercel.app/api/top-langs" width="60%" />
+    <img align="left"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
+     width="45%" />
+    <img align="right"
+     src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
+     width="45%" />
 </a>
 
 ## 📥 Conéctate conmigo:
