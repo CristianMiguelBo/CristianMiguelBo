@@ -29,11 +29,12 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
   <a href="https://github.com/CristianMiguelBo">
       <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
-       width="60%" />
+       width="47%" />
       <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
-       width="60%" />
+       width="47%" />
   </a>
+  <br>
 
 ## 🚀 Últimos proyectos:
 
