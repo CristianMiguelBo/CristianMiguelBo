@@ -24,15 +24,17 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
 </div>
 
-## 🖥️ GitHub Analytics           
-
+## 📊 GitHub Analytics           
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <a href="https://github.com/CristianMiguelBo">
       <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&layout=compact&theme=tokyonight"
+       src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
        width="47%" />
       <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=CristianMiguelBo&show_icons=true&include_all_commits=true&theme=tokyonight"
-       width="47%" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMiguelBo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+       width="47%" /> 
+    <img align="center"
+       src="https://nirzak-streak-stats.vercel.app/?user=CristianMiguelBo&theme=dark&hide_border=false" />
   </a>
   <br>
 
@@ -49,6 +51,11 @@ Apasionado por la programación y la tecnología, disfruto transformar ideas en 
       <b>Proyectos del Grado Medio SMX</b><br>
       Ejercicios utilizando diferentes lenguajes.<br>
       <a href="https://github.com/CristianMiguelBo/Proyectos-del-Grado-Medio-SMX.git" target="_blank">Ver proyecto</a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>Proyecto del Bootcamp.NET</b><br>
+      Proyecto colaborativo orientado a la planificación alimentaria personalizada y a la gestión inteligente de recetas.<br>
+      <a href="https://github.com/CristianMiguelBo/ProyectoFinalBootcamp.NET.git" target="_blank">Ver proyecto</a>
     </td>
   </tr>
  <!--<tr>
